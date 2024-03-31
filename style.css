@@ -1,0 +1,88 @@
+
+
+         *{
+    background-color:black;
+ }
+
+ .box{
+
+    background-color: #252d47; 
+    padding: 20px; 
+    border-radius: 10px; 
+
+    width: fit-content;
+max-width: 800px ; 
+  min-width: 350px; 
+  
+   height: 80%;
+min-height: 400px;
+max-height: 800px; 
+   
+    margin: 7% auto;
+
+}
+
+.Welcome{
+   
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    background-color: #252d47;
+    color:white ;
+}
+.Account{
+    font-family: "Roboto", sans-serif;
+    font-weight:bold;
+    font-size:small;
+    background-color: #252d47;
+    color:white ;
+}
+.header1{
+    margin-top: 20px ;
+    margin-bottom: 5px;
+     background-color: #252d47;
+    }
+        
+    .inputs{
+        background-color: #252d47;
+
+    }
+input{
+    margin-top: 25px;
+ 
+    margin-bottom: 5px;
+    border-radius: 10PX ;   
+    width: 90%;
+    padding: 15px;
+    background-color: #424a63 ;
+    border-color: transparent;
+}
+
+input::placeholder{
+    color:white(248, 46, 46)
+}
+
+
+#button{
+    width: 100%;
+    color: white;
+     background-color: rgb(60, 158, 223);
+     border-color: transparent;
+     }
+ 
+    .btn{
+        margin-top: 10px;
+        background-color: #252d47;  
+        margin-bottom: 5px;
+
+    }
+
+
+
+
+
+
+
+
+
+
